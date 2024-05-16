@@ -11,7 +11,10 @@ Una vez instalado el motor de base de datos es necesario también tener instalad
 Inicialmente el motor se instala para acceder a él desde nuestra instancia local o `localhost`. Sin embargo a través de dicha herramienta podemos configurarlo para que se encuentre visible desde otro cliente en la red.
 
 **`Habilitación de acceso remoto`**
-<p alignn="center"><img src="https://drive.google.com/uc?export=view&id=1CgWUcugHAoTe2rb7k9ybnriOFQDwEm7s" /></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1CgWUcugHAoTe2rb7k9ybnriOFQDwEm7s" /></p>
+
+**`Restart del servicio para aplicar los cambios`**
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1bDHb7soUUO4m-b8JkE3tn2WPGNiTyQwy" /></p>
 
 
 
