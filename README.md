@@ -16,6 +16,17 @@ Inicialmente el motor se instala para acceder a él desde nuestra instancia loca
 **`Restart del servicio para aplicar los cambios`**
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1bDHb7soUUO4m-b8JkE3tn2WPGNiTyQwy" /></p>
 
+## MySQL
+
+Para este caso haremos uso de `MySQL Workbench` la herramienta de interacción nativa y mediante el siguiente commando haremos visible al motor dentro de la red:
+
+```sql
+ALTER USER 'root'@'%' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'password' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
+```
+
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1qcdeQvh5wirM0Kj77yCxcCnnG6d1stgz" /></p>
 
 
 
