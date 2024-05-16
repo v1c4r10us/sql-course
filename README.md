@@ -28,5 +28,11 @@ FLUSH PRIVILEGES;
 
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1qcdeQvh5wirM0Kj77yCxcCnnG6d1stgz" /></p>
 
+## DBeaver
+
+Esta es una herramienta que permite conectarse a diferentes motores de base de datos a través de drivers descargables. Es gratuita en su versión community y esta disponible tanto para Windows, MacOS y Linux.
+
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1b1awuk0ImfRZu30gicX3ugy55GVDP1d4"/></p>
+
 
 
