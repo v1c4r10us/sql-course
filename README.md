@@ -73,7 +73,7 @@ Utilizaremos para el desarrollo, la base de datos ejemplo Northwind, una tienda 
 
 ## Explorando SQLServer
 
-|Componentes            |          SQLServer      |
+|Componentes            |           SQLServer     |
 |:---------------------:|:-----------------------:|
 |Motor de base de datos |Analysis Services        |
 |Integration Services   |Reporting Services       |
@@ -81,4 +81,4 @@ Utilizaremos para el desarrollo, la base de datos ejemplo Northwind, una tienda 
 |StreamInsight          |Full-text Search         |
 |Replication            |PowerPivot               |
 |PowerView              |Polybase                 |
-|ML Services (R, Python)|                         |
+|ML Services (R, Python)                          |
