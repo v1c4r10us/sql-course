@@ -81,4 +81,4 @@ Utilizaremos para el desarrollo, la base de datos ejemplo Northwind, una tienda 
 |StreamInsight          |Full-text Search         |
 |Replication            |PowerPivot               |
 |PowerView              |Polybase                 |
-|ML Services (R, Python)                          |
+|Machine Learning Services (R, Python)            |
