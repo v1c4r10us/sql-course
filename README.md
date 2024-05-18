@@ -71,9 +71,9 @@ Esta es una herramienta que permite conectarse a diferentes motores de base de d
 
 Utilizaremos para el desarrollo, la base de datos ejemplo Northwind, una tienda de productos ficticia. Para la implementación ejecutaremos el fichero `northwind.sql` en nuestro `SQLServer Management Studio`
 
-## Explorando SQLServer
+## Componentes SQLServer
 
-|Componentes            |           SQLServer     |
+| <!-- -->              | <!-- -->                |
 |:---------------------:|:-----------------------:|
 |Motor de base de datos |Analysis Services        |
 |Integration Services   |Reporting Services       |
@@ -81,4 +81,35 @@ Utilizaremos para el desarrollo, la base de datos ejemplo Northwind, una tienda 
 |StreamInsight          |Full-text Search         |
 |Replication            |PowerPivot               |
 |PowerView              |Polybase                 |
-|Machine Learning Services (R, Python)            |
+|ML Services (R, Python)                          |
+
+## Ediciones
+
+1. [Ediciones principales](https://www.microsoft.com/en-us/sql-server/sql-server-2022-pricing#footnote2)
++ Enterprise
++ Business Intelligence
++ Standard
+
+2. Ediciones especializadas
++ Web
+
+3. Ediciones gratuitas
++ Developer
++ Express
+
+4. Ediciones cloud
++ Microsoft Azure SQL Database
+
+**En cuanto a versiones la primera fue lanzada en 1989, puedes verificar la versión de tu instancia con el siguiente comando t-sql:**
+
+```sql
+SELECT @@version;
+```
+
+
+
+
+
+
+
+
