@@ -69,4 +69,16 @@ Esta es una herramienta que permite conectarse a diferentes motores de base de d
 
 ## Recursos
 
-Utilizaremos para el desarrollo, la base de datos ejemplo Northwind, una tienda de productos ficticia. Para la implementación ejecutaremos el fichero `northwind.sql` en nuestro `SQLServer Management Studio` 
+Utilizaremos para el desarrollo, la base de datos ejemplo Northwind, una tienda de productos ficticia. Para la implementación ejecutaremos el fichero `northwind.sql` en nuestro `SQLServer Management Studio`
+
+## Explorando SQLServer
+
+|Componentes SQLServer|
+|:---------------------:|:-----------------------:|
+|Motor de base de datos|Analysis Services|
+|Integration Services|Reporting Services|
+|Master Data Services|Data Quality Services|
+|StreamInsight|Full-text Search|
+|Replication|PowerPivot|
+|PowerView|Polybase|
+|Machine learning Services (R y Python)|
