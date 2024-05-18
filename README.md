@@ -106,10 +106,14 @@ Utilizaremos para el desarrollo, la base de datos ejemplo Northwind, una tienda 
 SELECT @@version;
 ```
 
+## Bases de datos del sistema
 
-
-
-
-
+|Base de datos|Descripcion                                                                              |
+|:-----------:|:---------------------------------------------------------------------------------------:|
+|master       |Almacena toda la configuración a nivel del sistema                                       |
+|msdb         |Guarda los datos de configuración del SQLServer Agent                                    |
+|model        |Proporciona la plantilla para las nuevas BD                                              |
+|tempdb       |Guarda datos temporales                                                                  |
+|Resource     |Es de solo lectura y contiene todos los objetos del sistema pertenecientes al esquema `sys`|  
 
 
